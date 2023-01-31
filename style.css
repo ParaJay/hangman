@@ -1,0 +1,21 @@
+canvas {
+    border: 4px dashed #ff0000;
+}
+
+button {
+    position: relative;
+    margin-top: 10px;
+}
+
+.top-buttons button {  left: 58px; }
+
+.mid-buttons button { left: 78px; }
+
+.btm-buttons button { left: 106px; }
+
+p {
+    position: relative;
+    left: 124px;
+    font-family: "arial";
+    font-size: 40px;
+}
